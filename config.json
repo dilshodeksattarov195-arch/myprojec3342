@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevender",
+        "uuid": 29997792,
+        "checksum": "kedbdm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
